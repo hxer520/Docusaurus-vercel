@@ -28,7 +28,6 @@ module.exports = {
         watch: process.env.TYPEDOC_WATCH,
       },
     ],
-    require.resolve("@cmfcmf/docusaurus-search-local"),
     [
       "@docusaurus/plugin-ideal-image",
       {
