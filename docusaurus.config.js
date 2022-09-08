@@ -39,7 +39,16 @@ module.exports = {
       },
     ],
   ],
-  themeConfig: {   
+  themeConfig: {
+    algolia: {
+      // Algolia 提供的应用 ID
+      appId: '7BB5QGB3E2',
+
+      //  公开 API 密钥：提交它没有危险
+      apiKey: 'e51ede124b28888a44d7e1fd7761dd27',
+
+      indexName: 'blog',
+    },
 
     announcementBar: {
       id: "new_version_rc.2",
