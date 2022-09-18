@@ -10,6 +10,7 @@ module.exports = {
   projectName: "丰小团wiki",
   plugins: [
     "docusaurus-tailwindcss-loader",
+    require.resolve("@easyops-cn/docusaurus-search-local"),
     [
       "docusaurus-plugin-typedoc",
       {
@@ -49,21 +50,21 @@ module.exports = {
 
     //   indexName: 'blog',
     // },
-  themes: [
-      // ... Your other themes.
-      [
-        require.resolve("@easyops-cn/docusaurus-search-local"),
-        {
-          // ... Your options.
-          // `hashed` is recommended as long-term-cache of index file is possible.
-          hashed: true,
-          // For Docs using Chinese, The `language` is recommended to set to:
-          // ```
-          language: ["en", "zh"],
-          // ```
-        },
-      ],
-    ],
+  // themes: [
+  //     // ... Your other themes.
+  //     [
+  //       require.resolve("@easyops-cn/docusaurus-search-local"),
+  //       {
+  //         // ... Your options.
+  //         // `hashed` is recommended as long-term-cache of index file is possible.
+  //         hashed: true,
+  //         // For Docs using Chinese, The `language` is recommended to set to:
+  //         // ```
+  //         language: ["en", "zh"],
+  //         // ```
+  //       },
+  //     ],
+  //   ],
     announcementBar: {
       id: "new_version_rc.2",
       content:
@@ -161,8 +162,8 @@ module.exports = {
         // blog: false,
         blog: {
           showReadingTime: true,
-           editUrl:
-               'https://github.com/facebook/docusaurus/edit/master/website/blog/'
+          editUrl:
+             'https://github.com/hxer520/Docusaurus-vercel/tree/main/blog'
         },
         theme: {
           customCss: [require.resolve("./src/css/custom.css")],
