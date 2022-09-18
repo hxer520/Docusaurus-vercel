@@ -21,6 +21,7 @@
         "@docusaurus/plugin-ideal-image": "2.0.0-beta.13",
         "@docusaurus/plugin-sitemap": "2.0.0-beta.13",
         "@docusaurus/preset-classic": "2.0.0-beta.13",
+        "@easyops-cn/docusaurus-search-local": "^0.32.0",
         "aos": "^2.3.4",
         "autoprefixer": "^10.4.0",
         "clsx": "^1.1.1",

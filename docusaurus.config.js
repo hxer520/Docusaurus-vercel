@@ -40,16 +40,30 @@ module.exports = {
     ],
   ],
   themeConfig: {
-    algolia: {
-      // Algolia 提供的应用 ID
-      appId: '7BB5QGB3E2',
+    // algolia: {
+    //   // Algolia 提供的应用 ID
+    //   appId: '7BB5QGB3E2',
 
-      //  公开 API 密钥：提交它没有危险
-      apiKey: 'e51ede124b28888a44d7e1fd7761dd27',
+    //   //  公开 API 密钥：提交它没有危险
+    //   apiKey: 'e51ede124b28888a44d7e1fd7761dd27',
 
-      indexName: 'blog',
-    },
-
+    //   indexName: 'blog',
+    // },
+    themes: [
+      // ... Your other themes.
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        {
+          // ... Your options.
+          // `hashed` is recommended as long-term-cache of index file is possible.
+          hashed: true,
+          // For Docs using Chinese, The `language` is recommended to set to:
+          // ```
+          language: ["en", "zh"],
+          // ```
+        },
+      ],
+    ],
     announcementBar: {
       id: "new_version_rc.2",
       content:
@@ -147,8 +161,8 @@ module.exports = {
         // blog: false,
         blog: {
           showReadingTime: true,
-          // editUrl:
-          //     'https://github.com/facebook/docusaurus/edit/master/website/blog/'
+           editUrl:
+               'https://github.com/facebook/docusaurus/edit/master/website/blog/'
         },
         theme: {
           customCss: [require.resolve("./src/css/custom.css")],
