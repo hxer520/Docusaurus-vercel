@@ -49,7 +49,7 @@ module.exports = {
 
     //   indexName: 'blog',
     // },
-    themes: [
+  themes: [
       // ... Your other themes.
       [
         require.resolve("@easyops-cn/docusaurus-search-local"),
