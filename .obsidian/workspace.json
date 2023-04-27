@@ -11,11 +11,10 @@
             "id": "57ef01a763c9c969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/docs/serta/true.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/docs/serta/true.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/docs/serta/true.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/docs/serta/true.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +151,7 @@
   },
   "active": "57ef01a763c9c969",
   "lastOpenFiles": [
-    "docs/docs/true.md",
-    "docs/docs/serta/true.md"
+    "docs/docs/serta/true的撒.md",
+    "docs/docs/true.md"
   ]
 }
