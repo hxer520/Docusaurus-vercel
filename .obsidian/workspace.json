@@ -147,5 +147,8 @@
     }
   },
   "active": "95fd9c611832c9ee",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "blog/2022-03-11-docker-deploy.md",
+    "docs/quickstart.md"
+  ]
 }
