@@ -1,21 +1,18 @@
 {
   "main": {
-    "id": "43bdc2b4c15bc274",
+    "id": "1db87f6367ce897a",
     "type": "split",
     "children": [
       {
-        "id": "c78a45fe2d5435b8",
+        "id": "6af2d6997287cd04",
         "type": "tabs",
         "children": [
           {
-            "id": "57ef01a763c9c969",
+            "id": "154996fbc5080760",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -24,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1141d7d727a9786",
+    "id": "c318708760da1b52",
     "type": "split",
     "children": [
       {
-        "id": "20b8e68dbb050214",
+        "id": "f11f19eb76c25741",
         "type": "tabs",
         "children": [
           {
-            "id": "c299b74079ef53b9",
+            "id": "95fd9c611832c9ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,7 +39,7 @@
             }
           },
           {
-            "id": "be789b8078072e43",
+            "id": "2872dd4b22b9e5d8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,7 +54,7 @@
             }
           },
           {
-            "id": "e96c7816a4bea4c0",
+            "id": "54e165564f394cf2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -71,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "bbfc72766a346132",
+    "id": "f5f7a10ee46b5c72",
     "type": "split",
     "children": [
       {
-        "id": "60bc17071415d24f",
+        "id": "e2d9368ea9e44655",
         "type": "tabs",
         "children": [
           {
-            "id": "bc7a7829c0255f15",
+            "id": "53cc4c733489439e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -95,7 +92,7 @@
             }
           },
           {
-            "id": "3d2452a3ef6b12ea",
+            "id": "7e9d15eb6e26a9c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -106,7 +103,7 @@
             }
           },
           {
-            "id": "7533d11d1d94cc69",
+            "id": "52a774e8f1194492",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,7 +114,7 @@
             }
           },
           {
-            "id": "552bebadab1729fd",
+            "id": "b78c654730c90079",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,7 +122,7 @@
             }
           },
           {
-            "id": "38e4acbb79f13225",
+            "id": "da8790fe1d4e614f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -149,9 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57ef01a763c9c969",
-  "lastOpenFiles": [
-    "docs/docs/serta/true的撒.md",
-    "docs/docs/true.md"
-  ]
+  "active": "95fd9c611832c9ee",
+  "lastOpenFiles": []
 }
