@@ -1,0 +1,8 @@
+{
+  "apiType": "miniOrange",
+  "endpoint": "",
+  "saveUserName": false,
+  "savePassword": false,
+  "showRibbonIcon": false,
+  "defaultPostStatus": "draft"
+}

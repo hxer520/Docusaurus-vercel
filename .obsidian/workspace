@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "5c08221b3be22d30",
+    "type": "split",
+    "children": [
+      {
+        "id": "70de4940c608488b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/1.种子客户该如何筛选.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0665a425f757a775",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e72197e9e1de43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ec3ff0bd39e4a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a879eaf9ce89656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecb74228ebc27eeb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "031ce9bb396addb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1503d0f2d414040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c5e9d99448588e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/1.种子客户该如何筛选.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08adaac217653d8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/1.种子客户该如何筛选.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f511234881d46a07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "401034eca9c8efe1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/1.种子客户该如何筛选.md"
+              }
+            }
+          },
+          {
+            "id": "6bb174d107fa535e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "70de4940c608488b",
+  "lastOpenFiles": [
+    "docs/2.种子客户沟通技巧.md",
+    "2022-09-05.md",
+    "_sidebar.md",
+    "docs/1.种子客户该如何筛选.md",
+    "docs/测试能否多个git.md",
+    "README.md",
+    "_coverpage.md",
+    "_navbar.md",
+    "BRAT-log.md",
+    "docsify/_coverpage.md"
+  ]
+}
