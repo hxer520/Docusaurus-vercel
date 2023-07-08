@@ -11,8 +11,12 @@
             "id": "154996fbc5080760",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blog/2022-03-11-docker-deploy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "69733f0e402ff804",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/2022-03-11-docker-deploy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/2022-03-11-docker-deploy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/2022-03-11-docker-deploy.md"
+              }
             }
           },
           {
@@ -146,9 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95fd9c611832c9ee",
+  "active": "154996fbc5080760",
   "lastOpenFiles": [
-    "blog/2022-03-11-docker-deploy.md",
-    "docs/quickstart.md"
+    "docs/quickstart.md",
+    "blog/2022-03-11-docker-deploy.md"
   ]
 }

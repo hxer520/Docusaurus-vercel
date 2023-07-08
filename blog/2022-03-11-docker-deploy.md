@@ -2,6 +2,7 @@
 slug: docker-deploy
 title: 使用 docker 构建部署卷王
 author: 米粥
+share： true
 ---
 # 通过 Docker 部署
 
